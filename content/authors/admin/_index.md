@@ -18,16 +18,16 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include speech enhancement, microphone array processing and machine learning for signal processing.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning for Signal Processing
+- Speech Enhancement and Separation
+- Microphone Array Signal Processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Electrical Engineering
     institution: Stanford University
     year: 2012
   - course: MEng in Artificial Intelligence
