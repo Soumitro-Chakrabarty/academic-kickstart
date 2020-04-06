@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Electrical Engineering
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Information Technology
+    institution: University of Erlangen-Nuremberg (FAU), Germany
+    year: 2019
+  - course: MSc. in Computer Science
+    institution: Ecole Polytechnique Federale de Lausanne (EPFL), Switzerland
+    year: 2013
+  - course: BE in Electronics and Communication Engineering
+    institution: Manipal Institute of Technology, India
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,7 +50,7 @@ social:
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=UHUOlCwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
