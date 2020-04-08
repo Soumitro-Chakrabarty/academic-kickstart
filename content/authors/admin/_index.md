@@ -72,7 +72,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 Since January 2019, I am a Research Associate at International Audio Laboratories, Erlangen (AudioLabs) which is a joint venture of Fraunhofer IIS and Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU Erlangen). My current research interests are in the field of machine learning for signal processing, mainly focused on speech separation and enhancement as well as microphone array signal processing.  
 
 Prior to this, I was a research and teaching assistant at AudioLabs, and a PhD student at FAU Erlangen. The focus of my PhD work was on robust spatial filtering and sound source localization in noisy and reverberant environments with a focus on deep learning based method int he later part of my PhD work.  
