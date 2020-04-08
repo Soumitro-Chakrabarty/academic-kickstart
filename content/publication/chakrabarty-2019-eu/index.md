@@ -1,7 +1,7 @@
 ---
 title: "Multi-scale aggregation of phase information for reducing computational cost of CNN based DOA estimation"
-date: 2019, submitted-01-01
-publishDate: 2020-04-08T07:26:33.829111Z
+date: 2019-09-01
+publishDate: 2020-04-08T08:28:01.359291Z
 authors: ["S. Chakrabarty", "Emanuel Habets"]
 publication_types: ["1"]
 abstract: ""
