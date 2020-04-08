@@ -7,6 +7,5 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*IEEE Journal of Selected Topics in Signal Processing*"
-tags: ["Electrical Engineering and Systems Science - Audio and Speech Processing", "Computer Science - Machine Learning", "Computer Science - Sound"]
 ---
 

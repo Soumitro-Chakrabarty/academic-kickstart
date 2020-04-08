@@ -7,7 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*IWAENC*"
-tags: ["Microphones;Speech enhancement;Time-frequency analysis;Acoustics;Signal to noise ratio;Task analysis;Training data;convolutional neural networks;speech enhancement;microphone array;masking"]
 doi: "10.1109/IWAENC.2018.8521346"
 ---
 
