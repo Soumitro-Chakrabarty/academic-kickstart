@@ -7,5 +7,8 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*ML4Audio Worskhop at NeurIPS*"
+
+projects:
+- asl
 ---
 
