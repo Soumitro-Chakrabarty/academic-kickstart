@@ -8,7 +8,7 @@ tags:
 external_link: ""
 
 image:
-  placement: 2
+  placement: 3
   caption: DOA Estimation
   focal_point: Smart
 
