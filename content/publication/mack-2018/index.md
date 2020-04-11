@@ -14,12 +14,8 @@ image:
   preview_only: false
 
 links:
-- icon: headphones
-  icon_pack: fab
-  name: Audio Examples
-  url: https://www.audiolabs-erlangen.de/resources/2018-IWAENC-CNNSpEnh
 url_code: ""
-url_pdf: "https://ieeexplore.ieee.org/abstract/document/8521346"
+url_pdf: "https://www.isca-speech.org/archive/Interspeech_2018/abstracts/1296.html"
 url_slides: ""
 url_video: ""
 ---

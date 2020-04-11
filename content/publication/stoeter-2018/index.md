@@ -7,5 +7,17 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*ICASSP*"
+
+
+image:
+  caption: Input representation 
+  focal_point: ""
+  preview_only: false
+
+links:
+url_code: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/8462159"
+url_slides: ""
+url_video: ""
 ---
 
