@@ -14,7 +14,7 @@ image:
   preview_only: false
 
 links:
-- icon: waveform
+- icon: headphones
   icon_pack: fab
   name: Audio Examples
   url: https://www.audiolabs-erlangen.de/resources/2016-IWAENC-Head

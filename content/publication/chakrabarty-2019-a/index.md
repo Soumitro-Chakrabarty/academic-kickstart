@@ -7,5 +7,20 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*IEEE Journal of Selected Topics in Signal Processing*"
+
+image:
+  caption: Ideal binary Mask
+  focal_point: ""
+  preview_only: false
+
+links:
+- icon: headphones
+  icon_pack: fab
+  name: Audio Examples
+  url: https://www.audiolabs-erlangen.de/resources/2018-JSTSP-CRNNEnh
+url_code: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/8691791"
+url_slides: ""
+url_video: ""
 ---
 
