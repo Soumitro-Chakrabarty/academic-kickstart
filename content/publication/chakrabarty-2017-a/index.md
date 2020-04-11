@@ -10,5 +10,10 @@ publication: "*WASPAA*"
 
 tags:
 - asl
+
+image:
+  caption: DOA Estimates
+  focal_point: ""
+  preview_only: false
 ---
 
