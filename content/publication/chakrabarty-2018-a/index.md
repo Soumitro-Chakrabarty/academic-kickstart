@@ -8,5 +8,23 @@ abstract: ""
 featured: false
 publication: "*IEEE/ACM Transactions on Audio, Speech, and Language Processing*"
 doi: "10.1109/TASLP.2017.2752364"
+
+projects:
+- sf
+
+image:
+  caption: DOA Subset Selection 
+  focal_point: ""
+  preview_only: false
+
+links:
+- icon: waveform
+  icon_pack: fab
+  name: Audio Examples
+  url: https://www.audiolabs-erlangen.de/resources/2016-TASLP-BayesianSF
+url_code: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/7776152"
+url_slides: ""
+url_video: ""
 ---
 
