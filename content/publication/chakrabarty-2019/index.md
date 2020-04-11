@@ -16,18 +16,16 @@ image:
   preview_only: false
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/sch_bty
 - icon: github
   icon_pack: fab
   name: Model
   url: https://github.com/Soumitro-Chakrabarty/Single-speaker-localization
+
 - icon: video
   icon_pack: fab
   name: Demo Video
   url: https://www.audiolabs-erlangen.de/resources/2020-ICASSP-SigAwareDOA
+
 url_code: ""
 url_pdf: "https://ieeexplore.ieee.org/document/8651493"
 url_slides: ""
