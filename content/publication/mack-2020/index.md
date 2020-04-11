@@ -7,5 +7,18 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*"
+
+projects:
+- asl
+
+- icon: desktop
+  icon_pack: fas
+  name: Demo Video
+  url: https://www.audiolabs-erlangen.de/resources/2020-ICASSP-SigAwareDOA
+
+url_code: ""
+url_pdf: "https://ieeexplore.ieee.org/document/9053658"
+url_slides: ""
+url_video: ""
 ---
 
