@@ -9,7 +9,7 @@ featured: false
 publication: "*ML4Audio Worskhop at NeurIPS*"
 
 # Project tag
-tags:
+projects:
 - asl
 
 image:
@@ -22,9 +22,13 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/sch_bty
+- icon: github
+  icon_pack: fab
+  name: Model
+  url: https://github.com/Soumitro-Chakrabarty/Single-speaker-localization
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "https://arxiv.org/pdf/1712.04276.pdf"
+url_slides: "https://www.audiolabs-erlangen.de/content/05-fau/assistant/00-chakrabarty/01-publications/2017NIPS/17_NIPS_presentation.pdf"
 url_video: ""
 
 ---

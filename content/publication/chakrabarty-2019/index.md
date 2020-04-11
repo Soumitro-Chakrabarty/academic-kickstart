@@ -7,7 +7,27 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*IEEE Journal of Selected Topics in Signal Processing*"
-tags:
+projects:
 - asl
+
+image:
+  caption: DOA Estimates
+  focal_point: ""
+  preview_only: false
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/sch_bty
+- icon: github
+  icon_pack: fab
+  name: Model
+  url: https://github.com/Soumitro-Chakrabarty/Single-speaker-localization
+url_code: ""
+url_pdf: "https://ieeexplore.ieee.org/document/8651493"
+url_slides: ""
+url_video: ""
+
 ---
 
