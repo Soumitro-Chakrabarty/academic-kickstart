@@ -2,7 +2,7 @@
 title: Acoustic Source Localization 
 summary: This project deals with the estimation of direction-of-arrival (DOA) of sound waves from multiple active sound sources in indoor reverberant and noisy environments.
 tags:
-- asl
+- ASL
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
