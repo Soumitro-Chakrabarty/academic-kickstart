@@ -13,7 +13,6 @@ tags:
 - asl
 
 image:
-  placement: 3
   caption: DOA Estimates
   focal_point: ""
 
