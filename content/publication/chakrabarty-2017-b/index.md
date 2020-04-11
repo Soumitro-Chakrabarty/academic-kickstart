@@ -15,6 +15,7 @@ tags:
 image:
   caption: DOA Estimates
   focal_point: ""
+  preview_only: false
 
 links:
 - icon: twitter
