@@ -18,8 +18,8 @@ image:
   preview_only: false
 
 links:
-- icon: waveform
-  icon_pack: fab
+- icon: ""
+  icon_pack: ""
   name: Audio Examples
   url: https://www.audiolabs-erlangen.de/resources/2016-TASLP-BayesianSF
 url_code: ""
