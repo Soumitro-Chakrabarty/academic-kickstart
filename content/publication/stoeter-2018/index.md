@@ -10,11 +10,19 @@ publication: "*ICASSP*"
 
 
 image:
-  caption: Input representation 
+  caption: Speaker Count 
   focal_point: ""
   preview_only: false
 
 links:
+- icon: github
+  icon_pack: fab
+  name: Model
+  url: https://github.com/faroit/CountNet
+- icon: video
+  icon_pack: fas
+  name: Demo Video
+  url: https://www.audiolabs-erlangen.de/resources/2017-CountNet
 url_code: ""
 url_pdf: "https://ieeexplore.ieee.org/abstract/document/8462159"
 url_slides: ""

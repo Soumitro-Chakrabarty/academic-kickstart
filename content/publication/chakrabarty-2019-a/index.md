@@ -15,7 +15,7 @@ image:
 
 links:
 - icon: headphones
-  icon_pack: fab
+  icon_pack: fas
   name: Audio Examples
   url: https://www.audiolabs-erlangen.de/resources/2018-JSTSP-CRNNEnh
 url_code: ""

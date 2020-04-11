@@ -7,5 +7,17 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*IEEE/ACM Transactions on Audio, Speech, and Language Processing*"
+
+
+image:
+  caption: "" 
+  focal_point: ""
+  preview_only: false
+
+links:
+url_code: ""
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/8506601"
+url_slides: ""
+url_video: ""
 ---
 

@@ -19,7 +19,7 @@ image:
 
 links:
 - icon: headphones
-  icon_pack: fab
+  icon_pack: fas
   name: Audio Examples
   url: https://www.audiolabs-erlangen.de/resources/2016-TASLP-BayesianSF
 url_code: ""
