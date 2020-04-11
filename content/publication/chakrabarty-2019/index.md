@@ -24,7 +24,7 @@ links:
   icon_pack: fab
   name: Model
   url: https://github.com/Soumitro-Chakrabarty/Single-speaker-localization
-- icon: desktop
+- icon: laptop
   icon_pack: fab
   name: Demo Video
   url: https://www.audiolabs-erlangen.de/resources/2020-ICASSP-SigAwareDOA
