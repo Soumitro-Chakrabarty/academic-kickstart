@@ -5,7 +5,7 @@ name = "my_font_set"
 google_fonts = "Lato:400,700|Montserrat|Roboto+Mono"
 
 # Font families
-heading_font = "Montserrat"
+heading_font = "Lato"
 body_font = "Montserrat"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
