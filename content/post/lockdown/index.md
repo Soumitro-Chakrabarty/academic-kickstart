@@ -25,12 +25,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-### Introduction
+## Introduction
 Since the last 1-1.5 months, majority of the world is fighting and at the same time struggling to come to terms with the socio-economic effects of the [COVID-19 pandemic](https://www.who.int/emergencies/diseases/novel-coronavirus-2019). Due to the lack of a specific medicine or a vaccine for this virus, the best possible solution that has been proposed by experts is [social distancing](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html). To ensure adherence to social distancing measures, every national government has imposed restrictions on its citizens in some form, ranging from simple issuance of social distancing guidelines in some countries like [Sweden](https://edition.cnn.com/videos/world/2020/04/13/sweden-coronavirus-lockdown-black-lead-vpx.cnn) to an enforced nationwide lockdown like the one currently ongoing in [India](https://mha.gov.in/sites/default/files/ndma%20order%20copy_0.pdf). In India, as a first trial/example of how such a lockdown would look/feel like, the Prime Minister announced a Janta Curfew (People's Lockdown) on 22nd March 2020. Following this, a [nation-wide lockdown](https://mha.gov.in/sites/default/files/MHAorder%20copy_0.pdf) for a period of 21 days with effect from 25th March 2020 was announced, that has now been extended till 3rd May.
 
 One of the main parameters to evaluate the seriousness of the pandemic in a certain country has been the number of deaths due to coronavirus, which stands at [358 for India](https://www.worldometers.info/coronavirus/country/india/), at the time of writing. Another aspect that is being highlighted is the economic distress that countries are going through due to the lockdown measures. However, in a country like India, the lockdown measures have not only been the reason for just economic distress but have also been the cause of deaths. In this paper, our aim is to highlight, categorize and explain the unique Indian conditions and how different aspects of the lockdown are leading to what can be called "Extra-Corona Deaths". 
 
-### Lockdown Conditions
+## Lockdown Conditions
 
 **Note**: Complete details regarding the Indian lockdown guidelines can be found [here](https://mha.gov.in/sites/default/files/Guidelines_0.pdf).
 
@@ -38,7 +38,7 @@ In a recent study called the [Oxford COVID-19 government response tracker](https
 
 While the measures have been effective in controlling the outbreak, the disruption of normalcy caused by this stringency of these measures, coupled with the inefficiency of the Indian administration to mitigate the issues has been the main reason for multiple deaths, mainly of the impoverished people. In the following, we will explain the different categories of deaths that have occurred. 
 
-### Death Categories
+## Death Categories
 
 #### 1. Poverty
 ##### 1.1 Starvation
@@ -53,4 +53,4 @@ While the measures have been effective in controlling the outbreak, the disrupti
 
 #### 5. Police Brutality
 
-### Conclusions
+## Conclusions
