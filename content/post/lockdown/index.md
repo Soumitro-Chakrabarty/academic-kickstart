@@ -3,7 +3,7 @@ title: 'The Great Indian Lockdown -  Episode 1'
 subtitle: 'The one where the poor have the choice of their mode of death'
 summary: Short story of a brave but unplanned action by the Indian Govt.
 authors:
-- admin
+- Lahari Chakraborty
 
 featured: false
 draft: false
