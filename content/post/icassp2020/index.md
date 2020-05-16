@@ -13,7 +13,7 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
+  placement: 1
   caption: 'Image Source: IEEE SPS'
   focal_point: ""
   preview_only: false
