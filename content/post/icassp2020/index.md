@@ -36,7 +36,7 @@ There has been a recent surge in works related to time-domain speech separation 
 
 These papers looked into the encoder-decoder design for TasNet architecture:
 
-* [Filterbank Design for End-to-end Speech Separation](http://arxiv.org/abs/1910.10400)
+* [M. Pariente, S. Cornell, A. Deleforge, and E. Vincent, “Filterbank design for end-to-end speech separation,”](http://arxiv.org/abs/1910.10400)
   This paper proposes the use of analytic filters to design the analysis-synthesis filters and looks into designing both fixed as well as learnable filter-banks within a unified framework for the TasNet architecture. 
 * [A Multi-Phase Gammatone Filterbank for Speech Separation Via Tasnet](http://arxiv.org/abs/1910.11615)
   They propose to use a deterministic gammatone filterbank for the encoder-decoder part of TasNet.
