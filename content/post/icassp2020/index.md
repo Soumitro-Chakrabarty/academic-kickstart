@@ -1,5 +1,5 @@
 ---
-title: 'ICASSP 2020 - Interesting Papers'
+title: 'ICASSP 2020 - Highlights'
 subtitle: 'Some interesting works from the first virtual ICASSP'
 summary:
 authors:
@@ -30,11 +30,11 @@ This year ICASSP was supposed to be held in Barcelona, but unfortunately due to 
 
 There were some really interesting works presented this year also at ICASSP and I am listing my choices based on my areas of interest of *single and multi-channel speech enhancement/separation, microphone array processing and acoustic parameter estimation*.
 
-### Single-channel speech enhancement/separation
+### Single-channel speech enhancement and separation
 
 There has been a recent surge in works related to time-domain speech separation mainly due to the ideal-mask-surpassing performance as well as a flexible system design of the [TasNet](https://ieeexplore.ieee.org/document/8707065/) framework. Therefore in ICASSP, time-domain speech separation/enhancement seemed to be one the more popular topics.
 
-These papers looked into the encoder-decoder design for TasNet architecture:
+A few papers looked into the encoder-decoder design for TasNet architecture:
 
 * [M. Pariente et al., Filterbank design for end-to-end speech separation](http://arxiv.org/abs/1910.10400)  
   This paper proposes the use of analytic filters to design the analysis-synthesis filters and looks into designing both fixed as well as learnable filter-banks within a unified framework for the TasNet architecture. 
@@ -45,3 +45,37 @@ These papers looked into the encoder-decoder design for TasNet architecture:
   They propose to make the encoder-decoder part "deep" to facilitate the learning of richer and complex signal representations and evaluate the effect of this design choice. 
 
 All three works took quite different approaches towards the encoder-decoder design that were inspired by separate considerations regarding the requirements that need to be fulfilled by the filters. 
+
+While these methods focused on the design of the encoder-decoder, another work  
+
+* [Tzinis et al., Two-Step Sound Source Separation: Training On Learned Latent Targets](http://arxiv.org/abs/1910.09804)  
+
+took the approach of pre-training the representation learning part separately, and showed improvements over the end-to-end training procedure adopted by TasNet inspired networks. 
+
+Another work
+
+* [Heitkaemper et al., Demystifying TasNet: A Dissecting Approach](http://arxiv.org/abs/1911.08895)  
+
+did an in-depth analysis of the benefits of time-domain separation compared to frequency-domain methods by sequentially replacing components of a frequency-domain method to move towards the TasNet approach. 
+
+Conv-TasNet was also applied for the task of real-time single-channel speech enhancement 
+
+* [Sonning et al., Performance Study of a Convolutional Time-Domain Audio Separation Network for Real-Time Speech Denoising](https://ieeexplore.ieee.org/document/9053846/)  
+
+where they showed that small look-ahead even in the range of 10-20 ms can really help the denoising performance. There were some other interesting works on real-time speech enhancement
+
+* [Xia et al., Weighted Speech Distortion Losses for Neural-network-based Real-time Speech Enhancement](http://arxiv.org/abs/2001.10601)  
+  This is also the baseline method of the [DNS Challenge](https://dns-challenge.azurewebsites.net/).
+
+* [Takeuchi et al., Real-time speech enhancement using equilibriated RNN](http://arxiv.org/abs/2002.05843)
+
+
+There were two other interesting works related to single-channel speech separation that are on my in-depth reading list
+
+* [Lam et al., Mixup-breakdown: A Consistency Training Method for Improving Generalization of Speech Separation Models](http://arxiv.org/abs/1910.13253)  
+  They propose a semi-supervised learning approach they call Mixup-Breakdown based on the original [mixup](https://arxiv.org/abs/1710.09412) combined with breakdown technique to include unlabeled inputs in training to improve generalization. 
+  
+* [Kim et al., Boosted Locality Sensitive Hashing: Discriminative Binary Codes for Source Separation](http://arxiv.org/abs/2002.06239)  
+  This work addresses the issue of speech denoising in resource-constrained conditions and proposes the use of learned hash codes to efficiently represent audio spectra. 
+
+### Multi-channel speech enhancement and separation
