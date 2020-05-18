@@ -14,7 +14,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 1
-  caption: ''
+  caption: 'Source:pixabay.com'
   focal_point: ""
   preview_only: false
 
