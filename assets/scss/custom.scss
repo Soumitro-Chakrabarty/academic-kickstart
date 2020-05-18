@@ -5,9 +5,7 @@ nav#navbar-main li.nav-item {
 }
 
 blockquote {
-  background: #36393c;
-  border-left: 10px solid #ccc;
-  quotes: "\201C""\201D""\2018""\2019";
+  color:  #bfbfbf;
 }
 blockquote:before {
   color: #ccc;
@@ -16,4 +14,7 @@ blockquote:before {
   line-height: 0.1em;
   margin-right: 0.25em;
   vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
 }
