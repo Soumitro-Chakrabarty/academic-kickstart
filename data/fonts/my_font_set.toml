@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Yatra+One|Roboto+Mono"
+google_fonts = "Lato:400,700|Ubuntu|Roboto+Mono"
 
 # Font families
 heading_font = "Lato"
-body_font = "Yatra One"
+body_font = "Ubuntu"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
