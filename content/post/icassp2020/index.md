@@ -1,7 +1,7 @@
 ---
 title: 'ICASSP 2020 - Highlights'
 subtitle: ''
-summary: 'My highlights from this year's virtual ICASSP.
+summary: 'My highlights from this year's virtual ICASSP.'
 authors:
 - Soumitro Chakrabarty
 
