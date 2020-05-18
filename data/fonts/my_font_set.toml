@@ -6,6 +6,6 @@ google_fonts = "Lato:400,700|Montserrat|Roboto+Mono"
 
 # Font families
 heading_font = "Lato"
-body_font = "Lato"
+body_font = "BioRhyme"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
