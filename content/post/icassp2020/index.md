@@ -1,7 +1,7 @@
 ---
 title: 'ICASSP 2020 - Highlights'
-subtitle: 'Something'
-summary: 'My highlights from this year's virtual ICASSP.'
+subtitle: ''
+summary: My highlights from this year's virtual ICASSP.
 authors:
 - Soumitro Chakrabarty
 
@@ -138,5 +138,6 @@ One of the most interesting works for me in this ICASSP was this work on pitch e
 
 * [Gfeller et al., Pitch Estimation Via Self-Supervision](https://ieeexplore.ieee.org/document/9053798/)  
   The authors propose to train a model for pitch estimation using mainly unlabelled samples and using only small amount of samples for some form of calibration. The main idea is well summarised in the abstract:
-    >The key to this is the observation that if one creates two examples from one original audio clip by pitch shifting both, the difference between the correct outputs is known, without even knowing the actual pitch value in the original clip. Somewhat surprisingly, this idea combined with an auxiliary reconstruction loss allows training a pitch estimation model.
+
+  >The key to this is the observation that if one creates two examples from one original audio clip by pitch shifting both, the difference between the correct outputs is known, without even knowing the actual pitch value in the original clip. Somewhat surprisingly, this idea combined with an auxiliary reconstruction loss allows training a pitch estimation model.
 
