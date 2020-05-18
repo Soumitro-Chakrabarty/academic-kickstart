@@ -114,10 +114,9 @@ where a MIMO TasNet was used to obtain stereo output for each source.
 
 Our work in this year's ICASSP was related to making direction-of-arrival (DOA) estimation signal-aware
 
-* [Mack et al., Signal-Aware Broadband DOA Estimation Using Attention Mechanisms
-](https://ieeexplore.ieee.org/document/9053658)
+* [Mack et al., Signal-Aware Broadband DOA Estimation Using Attention Mechanisms](https://ieeexplore.ieee.org/document/9053658)
 
-where we showed a simple mechanism of including signal-awareness in an existing CNN based multi-speaker DOA estimation that can work real-time. [Demo](https://www.audiolabs-erlangen.de/resources/2020-ICASSP-SigAwareDOA)
+where we showed a simple mechanism of including signal-awareness in an existing CNN based multi-speaker DOA estimation method that can work in real-time. Checkout the [Demo Videos](https://www.audiolabs-erlangen.de/resources/2020-ICASSP-SigAwareDOA).
 
 Another interesting work on DOA estimation came from Amazon
 
@@ -137,7 +136,8 @@ Other typical parameters of interest in acoustic environment are the T<sub>60</s
 One of the most interesting works for me in this ICASSP was this work on pitch estimation
 
 * [Gfeller et al., Pitch Estimation Via Self-Supervision](https://ieeexplore.ieee.org/document/9053798/)  
-  The authors propose to train a model for pitch estimation using mainly unlabelled samples and using only small amount of samples for some form of calibration. The main idea is well summarised in the abstract:
+  The authors propose to train a model for pitch estimation using mainly unlabelled samples and using only small amount of labelled samples for some form of calibration. The main idea is well summarised in the abstract:
+    >The key to this is the observation that if one creates two examples from one original audio clip by pitch shifting both, the difference between the correct outputs is known, without even knowing the actual pitch value in the original clip. Somewhat surprisingly, this idea combined with an auxiliary reconstruction loss allows training a pitch estimation model.
 
-  >The key to this is the observation that if one creates two examples from one original audio clip by pitch shifting both, the difference between the correct outputs is known, without even knowing the actual pitch value in the original clip. Somewhat surprisingly, this idea combined with an auxiliary reconstruction loss allows training a pitch estimation model.
+Overall, things got really interesting this year with all the time-domain methods and some nice combination of signal processing techniques within deep learning models. 
 
