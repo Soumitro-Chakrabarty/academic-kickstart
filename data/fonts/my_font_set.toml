@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Vollkorn:400|Roboto+Mono"
+google_fonts = "Lato:400,700|IBM+Plex+Sans|Roboto+Mono"
 
 # Font families
 heading_font = "Lato"
-body_font = "Vollkorn"
+body_font = "IBM Plex Sans"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
