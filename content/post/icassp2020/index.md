@@ -5,6 +5,9 @@ summary: My highlights from this year's virtual ICASSP.
 authors:
 - Soumitro Chakrabarty
 
+tags:
+- *
+
 featured: false
 draft: false
 
