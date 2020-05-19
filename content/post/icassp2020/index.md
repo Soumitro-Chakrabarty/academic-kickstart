@@ -6,7 +6,7 @@ authors:
 - Soumitro Chakrabarty
 
 tags:
-- *
+- highlights
 
 featured: false
 draft: false

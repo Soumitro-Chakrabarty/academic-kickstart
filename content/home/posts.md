@@ -24,6 +24,9 @@ subtitle = ""
    [[content.filter_button]]
      name = "All"
      tag = "*"
+   [[content.filter_button]]
+     name = "Highlights"
+     tag = "highlights"
   
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
