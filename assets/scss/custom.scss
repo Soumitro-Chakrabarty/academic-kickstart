@@ -1,8 +1,11 @@
 .dropdown-menu,
 nav#navbar-main li.nav-item {
   font-size: 18px;
-  font-weight: bold;
-  opacity: 0.5;
+  font-weight: normal;
+}
+
+.navbar{
+    opacity: 0.5;
 }
 
 blockquote {
