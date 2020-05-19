@@ -5,7 +5,14 @@ nav#navbar-main li.nav-item {
 }
 
 .navbar{
-    opacity: 0.5;
+    opacity: 0.8;
+}
+
+.nav-link{
+  &.hover{
+    font-weight: bold !important;
+    color: $sta-menu-text-active !important;
+  }
 }
 
 blockquote {
