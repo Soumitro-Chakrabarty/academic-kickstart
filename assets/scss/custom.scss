@@ -8,12 +8,15 @@ nav#navbar-main li.nav-item {
     opacity: 0.8;
 }
 
-.nav-link{
-  &.hover{
-    font-weight: bold !important;
-    color: $sta-menu-text-active !important;
+.navbar-nav{
+  .nav-link{
+    &.hover{
+      font-weight: bold !important;
+      color: $sta-menu-text-active !important;
+    }
   }
 }
+
 
 blockquote {
   color:    #a6a6a6;
