@@ -9,10 +9,10 @@ primary = "#17bad1"
 
 
 # Menu
-menu_primary = "#424949"
-menu_text = "#17bad1"
-menu_text_active = "#E5E7E9"
-menu_title = "#17bad1"
+menu_primary = "#FDFEFE"
+menu_text = "#17202A"
+menu_text_active = "#17bad1"
+menu_title = "#17202A"
 
 # Home sections
 background = "#202427"
