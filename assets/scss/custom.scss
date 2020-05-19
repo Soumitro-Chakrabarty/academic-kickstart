@@ -7,3 +7,10 @@ nav#navbar-main li.nav-item {
 blockquote {
   color:    #a6a6a6;
 }
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  object-fit: cover;
+}
