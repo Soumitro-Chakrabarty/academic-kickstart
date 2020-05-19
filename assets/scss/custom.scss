@@ -10,7 +10,7 @@ nav#navbar-main li.nav-item {
 
 .navbar-nav{
   .nav-link{
-    &.hover{
+    &:hover{
       font-weight: bold !important;
       color: $sta-menu-text-active !important;
     }
