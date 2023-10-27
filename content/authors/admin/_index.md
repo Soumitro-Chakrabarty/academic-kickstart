@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Since January 2019, I am a Research Associate at International Audio Laboratories, Erlangen, [AudioLabs](https://www.audiolabs-erlangen.de/), which is a joint venture of [Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html) and Friedrich-Alexander-Universität Erlangen-Nürnberg, [FAU Erlangen](https://www.fau.eu/). My current research interests are in the field of machine learning for signal processing, mainly focused on speech separation and enhancement as well as microphone array signal processing.  
+I currently work as a Senior Scientist in the Communication Acoustics group at [Fraunhofer IIS](https://www.iis.fraunhofer.de/en.html). My current research interests are in the field of machine learning for signal processing, mainly focused on speech separation and enhancement as well as microphone array signal processing. I am mainly involved in developing AI/ML based acoustic front-end processing technologies for [Fraunhofer upHear® Voice Quality Enhancement](https://www.iis.fraunhofer.de/en/ff/amm/communication/uphear-vqe.html).   
 
-Prior to this, I was a research and teaching assistant at AudioLabs, and a PhD student at FAU Erlangen. The focus of my PhD work was on robust spatial filtering and sound source localization in noisy and reverberant environments with a focus on deep learning based method in the later part of my PhD work.  
+Prior to this, I was a research and teaching assistant at [AudioLabs](https://www.audiolabs-erlangen.de/), and a PhD student at FAU Erlangen. The focus of my PhD work was on robust spatial filtering and sound source localization in noisy and reverberant environments with a focus on deep learning based method in the later part of my PhD work.  
